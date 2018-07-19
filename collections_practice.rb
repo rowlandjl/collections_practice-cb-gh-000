@@ -1,5 +1,5 @@
-def sort_array_asc
-
+def sort_array_asc(array)
+  array.sort 
 end
 
 
@@ -20,27 +20,24 @@ end
 
 def reverse_array
 
-end 
+end
 
 
 def kesha_maker
 
-end 
+end
 
 
 def find_a
 
-end 
+end
 
 
 def sum_array
 
-end 
+end
 
 
 def add_s
 
-end 
-
-
-
+end
