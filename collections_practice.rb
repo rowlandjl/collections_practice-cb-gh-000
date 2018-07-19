@@ -40,9 +40,9 @@ end
 def find_a(array)
   new_array = []
   array.start_with?('a') do |word|
-    new_array << word 
-  end 
-    
+    new_array << word
+  end
+  new_array
 end
 
 
