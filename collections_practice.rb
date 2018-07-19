@@ -32,9 +32,8 @@ end
 def kesha_maker(array)
   kesha = []
   array.each do |i|
-    kesha << i[2] = $
+    i[2] = $
   end
-  kesha
 end
 
 
