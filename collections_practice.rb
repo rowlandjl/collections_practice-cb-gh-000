@@ -30,8 +30,9 @@ end
 
 
 def kesha_maker(array)
+  kesha = []
   array.map do |i|
-    i[2] = $
+    kesha << i[2] = $
   end
 end
 
